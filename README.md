@@ -13,6 +13,7 @@ This dataset contains images of unique plants belonging to 12 different species
 ### The data file names are:
 
 images.npy
+
 Label.csv
 
 **Due to the large volume of data, the images were converted to numpy arrays and stored in images.npy file (which is too large to upload into GitHub, so I apologize for not having this source file for you) and the corresponding labels are also put into Labels.csv so that you can work on the data/project seamlessly without having to worry about the high data volume.**
